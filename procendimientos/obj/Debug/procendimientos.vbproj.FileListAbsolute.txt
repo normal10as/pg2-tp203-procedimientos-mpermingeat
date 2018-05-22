@@ -1,0 +1,11 @@
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\bin\Debug\procendimientos.exe.config
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\bin\Debug\procendimientos.exe
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\bin\Debug\procendimientos.pdb
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\bin\Debug\procendimientos.xml
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\obj\Debug\procendimientos.vbprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\obj\Debug\procendimientos.Resources.resources
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\obj\Debug\procendimientos.vbproj.GenerateResource.cache
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\obj\Debug\procendimientos.vbproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\obj\Debug\procendimientos.exe
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\obj\Debug\procendimientos.xml
+C:\Users\Max\Desktop\programacion\programacion2\procedimientos\procendimientos\procendimientos\obj\Debug\procendimientos.pdb
