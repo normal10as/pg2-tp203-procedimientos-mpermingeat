@@ -14,6 +14,7 @@ Module ejer303
         Dim resultado As Int16
         Console.WriteLine("Ingrese un numero: ")
         numero = Console.ReadLine
+        Console.WriteLine(" ")
         For index = 1 To 5
             exponente = index + 1
             resultado = Potencia(numero, exponente)

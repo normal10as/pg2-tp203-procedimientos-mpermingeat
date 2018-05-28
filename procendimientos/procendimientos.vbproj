@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{71A93EE4-B154-4846-8DD2-7CF09AD0712A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>procendimientos.ejer303</StartupObject>
+    <StartupObject>procendimientos.ejer304</StartupObject>
     <RootNamespace>procendimientos</RootNamespace>
     <AssemblyName>procendimientos</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,9 +68,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ejer305.vb" />
     <Compile Include="ejer301.vb" />
     <Compile Include="ejer302.vb" />
     <Compile Include="ejer303.vb" />
+    <Compile Include="ejer304.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
