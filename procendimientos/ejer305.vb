@@ -18,7 +18,7 @@ Module ejer305
             b = Console.ReadLine
 
         Loop While Verificacion(a, b) > 0
-        Console.WriteLine("El valor de la Hipotenusa es {0}", Volumen(a, b))
+        Console.WriteLine("El valor del volumen es {0}", Volumen(a, b))
     End Sub
 
     Private Function Verificacion(ByVal a As Decimal, ByVal b As Decimal)

@@ -6,19 +6,15 @@ Imports System
 'calcule y devuelva C (hipotenusa). Ingresar los valores por teclado y mostrar el resultado en
 'consola.Utilizar una función para validar los valores ingresados sean enteros positivos, si no
 'cumple esta condición pedir el reingreso del dato
-
 Module ejer304
     Sub Main()
         Dim a As Decimal
         Dim b As Decimal
-
-
         Do
             Console.WriteLine("Ingrese lado A")
             a = Console.ReadLine
             Console.WriteLine("Ingrese lado B")
             b = Console.ReadLine
-
         Loop While Verificacion(a, b) > 0
         Console.WriteLine("El valor de la Hipotenusa es {0}", Pitagora(a, b))
     End Sub
@@ -33,10 +29,8 @@ Module ejer304
     End Function
 
     Private Function Pitagora(ByRef a As Int16, ByRef b As Int16)
-
         Dim c As Decimal
         c = Math.Sqrt(a ^ 2 + b ^ 2)
         Return c
     End Function
-
 End Module
